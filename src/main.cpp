@@ -58,6 +58,7 @@ void setup()
   pinMode(tv, OUTPUT);
   digitalWrite(tv, HIGH);
 }
+
 void loop()
 {
   Data_Arduino_to_Display();
