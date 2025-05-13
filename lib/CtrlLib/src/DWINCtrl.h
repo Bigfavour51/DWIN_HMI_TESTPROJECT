@@ -2,7 +2,12 @@
 #define __DWINCTRL_H__
 
 #include <Arduino.h>
+#include "globals.h"
 
+#define DEBUG 1  
+
+
+void ReadSerial();
 
 
 
